@@ -66,14 +66,14 @@ namespace HotelProject.WebUI.Controllers
             if (responseMessage.IsSuccessStatusCode)
             {
                 var jsonData = await responseMessage.Content.ReadAsStringAsync();
-                var values = JsonConvert.DeserializeObject<UpdateTestimonialViewModel>(jsonData);
+                var values = JsonConvert.DeserializeObject<TestimonialViewModel>(jsonData);
                 return View(values);
             }
             return View();
         }
 
         [HttpPost]
-        public async Task<IActionResult> UpdateTestimonial(UpdateTestimonialViewModel model)
+        public async Task<IActionResult> UpdateTestimonial(TestimonialViewModel model)
         {
             var client = _httpClientFactory.CreateClient();
             var jsondata = JsonConvert.SerializeObject(model);
