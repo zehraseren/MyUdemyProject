@@ -1,0 +1,14 @@
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.EntityLayer\bin\Debug\net6.0\HotelProject.EntityLayer.deps.json
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.EntityLayer\bin\Debug\net6.0\HotelProject.EntityLayer.runtimeconfig.json
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.EntityLayer\bin\Debug\net6.0\HotelProject.EntityLayer.dll
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.EntityLayer\bin\Debug\net6.0\HotelProject.EntityLayer.pdb
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.AssemblyInfo.cs
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.dll
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.EntityLayer\obj\Debug\net6.0\refint\HotelProject.EntityLayer.dll
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.pdb
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.EntityLayer\obj\Debug\net6.0\HotelProject.EntityLayer.genruntimeconfig.cache
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.EntityLayer\obj\Debug\net6.0\ref\HotelProject.EntityLayer.dll

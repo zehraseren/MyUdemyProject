@@ -1,0 +1,3 @@
+﻿- Swagger, bir ASP.NET Core uygulamasında kullanılan bir API belgelendirme ve test aracıdır. Swagger, API'larını açık bir şekilde tanımlamaya, belgelendirmeye ve test etmeye olanak tanır.
+
+- Razor View, Microsoft'un ASP.NET MVC (Model-View-Controller) web uygulama çerçevesinde kullanılan bir görüntü motorudur. Razor View, sunucu tarafında web sayfalarını oluşturmak için kullanılan bir şablonlama dilidir.

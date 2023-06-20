@@ -1,0 +1,17 @@
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.DTOLayer\bin\Debug\net6.0\HotelProject.DTOLayer.deps.json
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.DTOLayer\bin\Debug\net6.0\HotelProject.DTOLayer.runtimeconfig.json
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.DTOLayer\bin\Debug\net6.0\HotelProject.DTOLayer.dll
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.DTOLayer\bin\Debug\net6.0\HotelProject.DTOLayer.pdb
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.DTOLayer\bin\Debug\net6.0\HotelProject.EntityLayer.dll
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.DTOLayer\bin\Debug\net6.0\HotelProject.EntityLayer.pdb
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.DTOLayer\obj\Debug\net6.0\HotelProject.DTOLayer.csproj.AssemblyReference.cache
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.DTOLayer\obj\Debug\net6.0\HotelProject.DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.DTOLayer\obj\Debug\net6.0\HotelProject.DTOLayer.AssemblyInfoInputs.cache
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.DTOLayer\obj\Debug\net6.0\HotelProject.DTOLayer.AssemblyInfo.cs
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.DTOLayer\obj\Debug\net6.0\HotelProject.DTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.DTOLayer\obj\Debug\net6.0\HotelProject.DTOLayer.csproj.CopyComplete
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.DTOLayer\obj\Debug\net6.0\HotelProject.DTOLayer.dll
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.DTOLayer\obj\Debug\net6.0\refint\HotelProject.DTOLayer.dll
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.DTOLayer\obj\Debug\net6.0\HotelProject.DTOLayer.pdb
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.DTOLayer\obj\Debug\net6.0\HotelProject.DTOLayer.genruntimeconfig.cache
+C:\Users\serca\Desktop\Zehra Şeren\Projects\MyUdemyProject\APIConsume\HotelProject.DTOLayer\obj\Debug\net6.0\ref\HotelProject.DTOLayer.dll
